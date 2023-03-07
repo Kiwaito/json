@@ -3,7 +3,7 @@
     "descripcionTienda" : "Tienda online especializada en el mundo del K-Pop para Canarias",
     "productos" : [
         {
-    "imagen" : "../img/gidle.png",
+    "imagen" : "./img/gidle.png",
     "tipo" : "album",
     "nombre" : "1ST Full Album I Never Die",
     "artistaGrupo" : "(G)I-DLE",
@@ -27,7 +27,7 @@
     "finalInscripcion" : "20 de marzo"
 },
 {
-    "imagen" : "../img/serafim.jpg",
+    "imagen" : "./img/serafim.jpg",
     "tipo" : "album",
     "nombre": "ANTIFRAGILE 2ND mini album",
     "artistaGrupo" : "LE SSERAFIM",
@@ -47,7 +47,7 @@
     "finalInscripcion" : "20 de octubre"
 },
 {
-    "imagen" : "../img/bts.jpg",
+    "imagen" : "./img/bts.jpg",
     "tipo" : "album",
     "nombre" : "PROOF",
     "artistaGrupo" : "BTS",
@@ -73,7 +73,7 @@
     ],
     "productosLight" : [
         {
-            "imagen" : "../img/blackpink.jpg",
+            "imagen" : "./img/blackpink.jpg",
             "tipo" : "light stick",
             "nombre" : "Blackpink - Official Light Stick",
             "artistaGrupo" : "Blackpink",
@@ -90,7 +90,7 @@
             "finalInscripcion" : "5 de abril"
         },
         {
-            "imagen" : "../img/nixx.jpg",
+            "imagen" : "./img/nixx.jpg",
             "tipo" : "light stick",
             "nombre" : "NMIXX - Official Light Stick",
             "artistaGrupo" : "NMIXX",
@@ -107,7 +107,7 @@
             "finalInscripcion" : "18 de marzo"
         },
         {
-            "imagen" : "../img/txt.jpeg",
+            "imagen" : "./img/txt.jpeg",
             "tipo" : "light stick",
             "nombre": "TXT - Official Light Stick",
             "artistaGrupo" : "Tomorrow x Together",
